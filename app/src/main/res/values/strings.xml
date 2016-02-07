@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="tab_heroes">Select</string>
+    <string name="tab_items">Heroes</string>
+    <string name="tab_build">Build</string>
+    <string name="type_support">Support</string>
+    <string name="type_carry">Carry</string>
+
+    <string name="app_name">Dota 2 Hero</string>
+</resources>
